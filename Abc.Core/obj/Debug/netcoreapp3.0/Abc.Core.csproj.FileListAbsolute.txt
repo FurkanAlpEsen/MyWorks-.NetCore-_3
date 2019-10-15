@@ -1,0 +1,8 @@
+C:\Users\furka\source\repos\Abc\Abc.Core\bin\Debug\netcoreapp3.0\Abc.Core.deps.json
+C:\Users\furka\source\repos\Abc\Abc.Core\bin\Debug\netcoreapp3.0\Abc.Core.dll
+C:\Users\furka\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp3.0\Abc.Core.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp3.0\Abc.Core.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp3.0\Abc.Core.AssemblyInfo.cs
+C:\Users\furka\source\repos\Abc\Abc.Core\bin\Debug\netcoreapp3.0\Abc.Core.pdb
+C:\Users\furka\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp3.0\Abc.Core.dll
+C:\Users\furka\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp3.0\Abc.Core.pdb
